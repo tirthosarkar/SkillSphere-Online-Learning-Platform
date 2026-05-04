@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "Jhankar Mahbub",
+    "duration": "40 hours",
+    "rating": 4.9,
+    "price": 49.99,
+    "level": "Beginner",
+    "description": "Master HTML, CSS, JavaScript, and React to build stunning full-stack websites from scratch. This comprehensive bootcamp covers everything from basic layout structures to complex frontend logic and API integration. By the end of the course, you will have completed multiple real-world projects and be ready for professional web development roles.",
+    "image": "https://i.ibb.co.com/B5NgdyFH/web.jpg",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Next.js Mastery",
+    "instructor": "Sarah Smith",
+    "duration": "15 hours",
+    "rating": 4.8,
+    "price": 59.99,
+    "level": "Advanced",
+    "description": "Learn Server Components, Dynamic Routing, and Server Actions in the latest Next.js framework. This course dives deep into performance optimization, SEO best practices, and enterprise-level application architecture. You will explore advanced concepts like middleware, parallel routes, and ISR to build high-performance, SEO-friendly modern web applications.",
+    "image": "https://i.ibb.co.com/p6S9G0vB/next-js.jpg",
+    "category": "Development"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Fundamentals",
+    "instructor": "Emily Chen",
+    "duration": "25 hours",
+    "rating": 4.7,
+    "price": 34.99,
+    "level": "Beginner",
+    "description": "Design user-friendly interfaces using Figma and learn the core principles of user experience. This module focuses on wireframing, prototyping, and understanding user behavior to create intuitive digital products. You will master typography, color theory, and accessibility standards while working on a complete design portfolio from mobile apps to web platforms.",
+    "image": "https://i.ibb.co.com/BHNFfy0D/Ui-Ux.avif",
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Strategy 2026",
+    "instructor": "Michael Brown",
+    "duration": "30 hours",
+    "rating": 4.6,
+    "price": 29.99,
+    "level": "Intermediate",
+    "description": "Master SEO, Social Media Marketing, and Google Ads to grow any business online. Stay ahead of the curve with the latest strategies for 2026, including AI-driven content marketing and data analytics. This course provides hands-on experience in managing high-budget campaigns, tracking ROI, and building a strong brand presence across various digital channels.",
+    "image": "https://i.ibb.co.com/BVfkQ8YF/digitalmar.jpg",
+    "category": "Marketing"
+  },
+  {
+    "id": 5,
+    "title": "Python for Data Science",
+    "instructor": "Dr. Alan Turing",
+    "duration": "50 hours",
+    "rating": 4.9,
+    "price": 69.99,
+    "level": "Intermediate",
+    "description": "Analyze large datasets and build machine learning models using Python and Pandas. This intensive program covers data cleaning, visualization with Matplotlib/Seaborn, and statistical analysis. You will learn to implement core machine learning algorithms using Scikit-Learn and work on real-life datasets to solve complex business problems with predictive modeling.",
+    "image": "https://i.ibb.co.com/j9NPDfk3/python.webp",
+    "category": "Development"
+  },
+  {
+    "id": 6,
+    "title": "Graphic Design Masterclass",
+    "instructor": "Jessica Lee",
+    "duration": "22 hours",
+    "rating": 4.5,
+    "price": 24.99,
+    "level": "Beginner",
+    "description": "Learn Adobe Photoshop, Illustrator, and InDesign to create professional visual content. This masterclass takes you through the creative process of logo design, branding, and print production. You will develop a keen eye for aesthetics while mastering professional tools to create eye-catching designs for both digital and print media projects.",
+    "image": "https://i.ibb.co.com/G49ptRpR/grap.jpg",
+    "category": "Design"
+  },
+  {
+    "id": 7,
+    "title": "JavaScript Algorithms & Logic",
+    "instructor": "Mark Zuckerberg",
+    "duration": "18 hours",
+    "rating": 4.8,
+    "price": 39.99,
+    "level": "Advanced",
+    "description": "Deep dive into data structures and algorithms to crack your next technical interview. This course focuses on logical thinking and solving complex computational problems efficiently. You will explore Big O notation, sorting algorithms, recursion, and dynamic programming with hands-on practice sessions designed for high-level software engineering positions.",
+    "image": "https://i.ibb.co.com/nMk5DMqV/js.avif",
+    "category": "Development"
+  },
+  {
+    "id": 8,
+    "title": "Content Writing & Copywriting",
+    "instructor": "David Ogilvy",
+    "duration": "12 hours",
+    "rating": 4.4,
+    "price": 19.99,
+    "level": "Beginner",
+    "description": "Write persuasive copy that converts visitors into customers and master the art of storytelling. This course teaches you how to write compelling headlines, engaging blog posts, and high-converting ad copy. You will learn the psychological triggers that drive user action and how to adapt your writing style for different platforms and target audiences.",
+    "image": "https://i.ibb.co.com/nqCkYC46/content.png",
+    "category": "Marketing"
+  },
+  {
+    "id": 9,
+    "title": "Mobile App Dev with React Native",
+    "instructor": "Chris Evans",
+    "duration": "35 hours",
+    "rating": 4.7,
+    "price": 44.99,
+    "level": "Intermediate",
+    "description": "Build cross-platform Android and iOS apps using your existing React knowledge. This course covers native components, navigation, and state management in a mobile environment. You will learn how to integrate device features like camera and GPS while building a fully functional, high-performance mobile application that can be deployed to the App Store and Play Store.",
+    "image": "https://i.ibb.co.com/hFFQppCr/react.webp",
+    "category": "Development"
+  },
+  {
+    "id": 10,
+    "title": "Cyber Security Essentials",
+    "instructor": "Kevin Mitnick",
+    "duration": "28 hours",
+    "rating": 4.9,
+    "price": 54.99,
+    "level": "Beginner",
+    "description": "Protect systems and networks from digital attacks and learn the basics of ethical hacking. This introductory course covers network security, cryptography, and risk management. You will explore common vulnerability points, learn how to prevent unauthorized access, and understand the ethical and legal frameworks of the cybersecurity industry to build secure digital infrastructures.",
+    "image": "https://i.ibb.co.com/KxQ3F0b9/cybar.webp",
+    "category": "Development"
+  }
+]
